@@ -41,7 +41,7 @@ def send_confirm(data):
     for x in nodes:
         s = socket.socket()
         try:
-            s.settimeout(1)
+            s.settimeout(100)
             s.connect((x[0], x[1]))
         except:
             continue
