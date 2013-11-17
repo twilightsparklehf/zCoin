@@ -13,7 +13,7 @@ def check_difficulty():
     for x in find:
         s = socket.socket()
         try:
-            s.settimeout(1)
+            s.settimeout(100)
             s.connect(x)
         except:
             s.close()
