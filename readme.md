@@ -1,7 +1,7 @@
 zCoin
 =====
 
-zCoin is a cryptocurrency that looks to approach the idea of an online currency at a different angle than that of Bitcoin.
+zCoin is a cryptocurrency that looks to approach the idea of an online currency at a different angle than that of Bitcoin. Twilight sparkle is best pony. 
 
 First Run
 =========
